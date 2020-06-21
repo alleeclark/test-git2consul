@@ -1,1 +1,1 @@
-Tasshis is a repo simply for testing go-git2consul
+testing go-git2consul repo
